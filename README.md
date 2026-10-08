@@ -1,4 +1,4 @@
-# Transfer Box
+# the-box
 
 A simple personal space for transferring files between devices.
 
@@ -6,4 +6,4 @@ A simple personal space for transferring files between devices.
 <br>
 
 
-![Transfer Box animation](.docs/box-animado.gif)
+![Animated box](.docs/box-animado.gif)
