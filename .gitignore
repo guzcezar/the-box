@@ -1,0 +1,33 @@
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+*.local
+credentials.json
+secrets.json
+service-account*.json
+
+# Private keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa
+id_ed25519
+
+# Local editor and system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# draw.io backup and temporary files
+*.drawio.bak
+*.drawio.bkp
+*.drawio.backup
+*.drawio.tmp
+*.drawio~
